@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "430506575179",
+    "project_id": "constructorofprice",
+    "storage_bucket": "constructorofprice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430506575179:android:7d9461e1216febdc36d4ce",
+        "android_client_info": {
+          "package_name": "com.example.light_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtzOc-eGAgW6HqVGJGMffDSBqThwgd4G4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
